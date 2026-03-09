@@ -1,0 +1,10 @@
+[
+  {
+    "name": "IPv4.Center",
+    "website": "https://ipv4center.com",
+    "type": "marketplace",
+    "regions": ["RIPE", "ARIN", "APNIC", "LACNIC", "AFRINIC"],
+    "services": ["buy", "sell", "lease"],
+    "founded": 2019
+  }
+]
